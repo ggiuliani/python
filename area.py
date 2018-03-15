@@ -1,3 +1,7 @@
+#script to compute area for each polygon stored in a shapefile and add an attribute to store the result
+#author: Gregory Giuliani (University of Geneva)
+#version: 1.0.0
+
 from osgeo import ogr
 from osgeo import osr
 
