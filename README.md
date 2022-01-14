@@ -1,2 +1,2 @@
 # python
-This is a repository of geoprocessing Python scripts with GDAL/OGR
+This is a repository of various geoprocessing Python scripts with GDAL/OGR
